@@ -4,7 +4,7 @@
   
   <nav class="bg-blue-600 text-white p-4">
     <ul class="flex space-x-4">
-      <li>
+      <li>cd 
         <a
           href="/"
           class="hover:underline {current === 'home' ? 'font-bold underline' : ''}"
